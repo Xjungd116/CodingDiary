@@ -15,6 +15,18 @@ Course: [Python: Full Course for Beginner](https://www.youtube.com/watch?v=rfscV
 
 ### Python back-end
 1. Django framework: [Python Backend Web Development Course (with Django)](https://www.youtube.com/watch?v=jBzwzrDvZ18&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=5&t=32942s)
+* URL Routing and Django apps
+* Django Templates Languages (static data)
+* Sending data to template files (dynamic data)
+* Get vs Post (csrf_token)
+* Static files in Django
+* Django Models
+* Django Admin Panel & Database Manipulation
+* User Registration
+* User login and logout
+* Dynamic URL Routing
+* Postgresql Setup
+* Django Rest Framework
 
 ### Modules/Tools
 1. **VENE** (How to create virtual environment): [Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module](https://www.youtube.com/watch?v=Kg1Yvry_Ydk&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=7&t=205s)
