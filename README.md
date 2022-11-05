@@ -22,6 +22,6 @@ Course: [Python: Full Course for Beginner](https://www.youtube.com/watch?v=rfscV
 ## Algorithms and Data Structure
 1. [Algorithms and Data Structure Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=4&t=12614s)
 
-## Concepts in Computer Science
+### Concepts in Computer Science
 1. [Crash Course Computer Science (40 episodes)](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
