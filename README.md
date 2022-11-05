@@ -1,4 +1,4 @@
-# CodingDiary
+# CodingDiary转码日记
 How I learn coding from zero.
 
 ## Python
