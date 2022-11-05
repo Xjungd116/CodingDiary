@@ -30,6 +30,9 @@ Course: [Python: Full Course for Beginner](https://www.youtube.com/watch?v=rfscV
 
 ### Modules/Tools
 1. **VENE** (How to create virtual environment): [Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module](https://www.youtube.com/watch?v=Kg1Yvry_Ydk&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=7&t=205s)
+
+## Java
+1. [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=6&t=960s)
    
 ## Algorithms and Data Structure
 1. [Algorithms and Data Structure Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=4&t=12614s)
