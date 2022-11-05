@@ -1,5 +1,5 @@
-## List: 
-### Attributes
+# List: 
+### About lists:
 1) ordered, mutable, allows duplicate elements
 2) [] also use to refer an index in order
     <br> - [-1] with negative number, it starts from the end
@@ -46,3 +46,25 @@ print(b)
 [0, 0, 0, 0, 0]
 <br>[1, 4, 7]
 <br>[1, 4, 9, 16]
+
+
+# Tuples
+### Tuples cannot be changed or modified while list can
+so list is [], tuples is ()
+```Shell
+mytuple = ("Xiaotong", 22, "London")
+print(mytuple)
+
+item = mytuple[0]
+print(item)
+
+for x in mytuple:
+    print(x)
+```
+('Xiaotong', 22, 'London')
+<br>Xiaotong
+<br>Xiaotong
+<br>22
+<br>London
+
+# Dictionaries
