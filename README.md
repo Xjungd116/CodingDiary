@@ -3,7 +3,8 @@ How I learn coding from zero.
 <br>记录我的转码学习进度。
 
 ## Python
-1. Learn Python in beginner and intermediate level: [Python: Full Course for Beginner](https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=1); [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=3&t=5968s)
+### Learn Python in beginner and intermediate level: 
+Course: [Python: Full Course for Beginner](https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=1); [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=3&t=5968s)
 * Data Types: strings/number/boolean values
 * Common Data Sructure: lists/tuples/dictionaries
 * If Statements
