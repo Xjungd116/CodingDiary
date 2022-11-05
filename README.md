@@ -3,8 +3,9 @@ How I learn coding from zero.
 <br>记录我的转码学习进度。以下是我学习代码参考的视频，以上是我根据视频学习的笔记。
 
 ## Python
-1. Python for **beginner** level: [Youtube](https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=1)
-   https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=1
+*Beginner
+1. Python for **beginner** level: [Python: Full Course for Beginner (Youtube)](https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=1)
+
 2. Python for **Imtermediate** level: 
    https://www.youtube.com/watch?v=HGOBQPFzWKo&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=3&t=5968s
 
