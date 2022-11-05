@@ -1,5 +1,5 @@
 # CodingDiary
-This repository records how I learn coding from zero. 
+How I learn coding from zero.
 
 ## Python
 1. Python for **beginner** level: https://www.youtube.com/watch?v=rfscVS0vtbw&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=1
