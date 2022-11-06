@@ -1,5 +1,5 @@
 # CodingDiary转码日记
-How I learn coding from zero. 
+How I learn coding from zero. (To be finished...)
 <br>记录我的转码学习进度。
 
 ## Python
