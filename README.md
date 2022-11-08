@@ -38,8 +38,8 @@ Course: [Python: Full Course for Beginner](https://www.youtube.com/watch?v=rfscV
 1. [Algorithms and Data Structure Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0&list=PLQVrWc79oAJc2Wr_miiMIZxHNxhZcWmF5&index=4&t=12614s)
 - [x] Big O Notation
 - [x] Sorting and Searching
-      - Linear search vs. binary search
-      - Selection sort/quick sort/merge sort
+* Linear search vs. binary search
+* Selection sort/quick sort/merge sort
 - [x] Arrays/Linked Lists
 
 ### Concepts in Computer Science
